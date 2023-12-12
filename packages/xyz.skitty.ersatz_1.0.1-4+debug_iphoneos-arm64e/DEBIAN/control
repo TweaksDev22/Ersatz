@@ -1,0 +1,13 @@
+Package: xyz.skitty.ersatz
+Name: Ersatz
+Depends: mobilesubstrate, preferenceloader
+Description: Replace any text, system-wide!
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/sileo.json
+Maintainer: Skitty
+Author: Skitty
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0.1-4+debug
+Installed-Size: 432
